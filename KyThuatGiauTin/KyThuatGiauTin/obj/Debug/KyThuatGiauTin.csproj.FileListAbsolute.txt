@@ -1,0 +1,8 @@
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\bin\Debug\KyThuatGiauTin.exe.config
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\bin\Debug\KyThuatGiauTin.exe
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\bin\Debug\KyThuatGiauTin.pdb
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\obj\Debug\KyThuatGiauTin.csprojResolveAssemblyReference.cache
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\obj\Debug\KyThuatGiauTin.Properties.Resources.resources
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\obj\Debug\KyThuatGiauTin.csproj.GenerateResource.Cache
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\obj\Debug\KyThuatGiauTin.exe
+D:\KTGT\KyThuatGiauTin\KyThuatGiauTin\obj\Debug\KyThuatGiauTin.pdb
